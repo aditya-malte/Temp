@@ -1,10 +1,10 @@
-{"movie_name":"John Wick", "rating":4}
-{"movie_name":"Jurassic Park", "rating":5}
-{"movie_name":"Hangover", "rating":4}
-{"movie_name":"KGF", "rating":5}
-{"movie_name":"Due Date", "rating":4}
-{"movie_name":"Avengers", "rating":3}
-{"movie_name":"Hangover 2", "rating":4}
-{"movie_name":"Hangover 3", "rating":2}
-{"movie_name":"Vikram Vedha", "rating":5}
-{"movie_name":"Dhol", "rating":3}
+{"movie_name":"John Wick", "rating":"4"}
+{"movie_name":"Jurassic Park", "rating":"5"}
+{"movie_name":"Hangover", "rating":"4"}
+{"movie_name":"KGF", "rating":"5"}
+{"movie_name":"Due Date", "rating":"4"}
+{"movie_name":"Avengers", "rating":"3"}
+{"movie_name":"Hangover 2", "rating":"4"}
+{"movie_name":"Hangover 3", "rating":"2"}
+{"movie_name":"Vikram Vedha", "rating":"5"}
+{"movie_name":"Dhol", "rating":"3"}
